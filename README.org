@@ -1,0 +1,6 @@
+#+title: CC4E
+#+AUTHOR: cheattheweb
+
+In this complete C programming course, Dr. Charles Severance (aka Dr. Chuck) will help you understand computer architecture and low-level programming through studying the "classic" version of the C Programming language from the 1978 book written by Brian Kernighan and Dennis Ritchie.
+
+https://www.cc4e.com/
